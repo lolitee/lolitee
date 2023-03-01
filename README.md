@@ -1,4 +1,4 @@
-### Hi there 👋
+### moved to https://github.com/teeteeteeteetee
 
 <!--
 **lolitee/lolitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
